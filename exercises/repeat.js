@@ -9,6 +9,10 @@
 
 // Your code:
 
+function repeat(string, number) {
+	return string.repeat(number);	
+}
+
 //* Begin of tests
 const assert = require('assert');
 
